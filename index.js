@@ -18,6 +18,4 @@ function scuberGreetingForFeet(distance)
   {
     return "Thanks for riding";
   }
-
-
 }
