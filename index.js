@@ -14,7 +14,10 @@ Function scuberGreetingForFeet(distance)
   {
     "I will gladly take your thirty bucks." 
   }
-
+  else 
+  {
+      "Thanks for riding"
+  }
 
 
 }
