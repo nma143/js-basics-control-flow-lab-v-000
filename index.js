@@ -19,3 +19,10 @@ function scuberGreetingForFeet(distance)
     return "Thanks for riding";
   }
 }
+
+function ternaryCheckCity()
+{
+
+
+  
+}
