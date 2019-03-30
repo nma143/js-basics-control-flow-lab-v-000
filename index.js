@@ -3,7 +3,7 @@ function scuberGreetingForFeet(distance)
 {
   if (distance <= 400)
   {
-      return "This one is on me!";
+    return "This one is on me!";
   }
   else if (distance > 2500)
   {
@@ -16,7 +16,7 @@ function scuberGreetingForFeet(distance)
   }
   else
   {
-      "Thanks for riding";
+    return "Thanks for riding";
   }
 
 
