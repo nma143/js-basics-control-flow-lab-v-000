@@ -25,3 +25,25 @@ function ternaryCheckCity(destination)
     let msg = destination === "NYC" ?  "Ok, sounds good." : "No go."
     return msg;
 }
+
+function switchOnCharmFromTip(tip)
+{
+
+  switch (tip) 
+  {
+    case "generous":
+    {
+      return "Thank you so much.";
+    }
+
+    case "not as generous":
+    {
+      return "Thank you.";
+    }
+    default:
+    {
+      
+    }
+  }
+  
+}
