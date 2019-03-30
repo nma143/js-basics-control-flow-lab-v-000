@@ -5,9 +5,9 @@ Function scuberGreetingForFeet(distance)
   {
       "This one is on me!"
   }
-  else
+  else if distance <= 2500 and distance >= 2000
   {
-
+    "I will gladly take your thirty bucks."
   }
 
 
