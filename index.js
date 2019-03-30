@@ -42,7 +42,7 @@ function switchOnCharmFromTip(tip)
     }
     default:
     {
-
+      return "Bye.";
     }
   }
 
